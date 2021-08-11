@@ -86,7 +86,7 @@ module.exports = {
 ```
 
 >And added the import in the main svelte file 'App.svelte' to apply TailwindCSS project wide.
-```javascript
+```svelte
 <script>
     import TailwindCss from "./TailwindCSS.svelte";
 </script>
