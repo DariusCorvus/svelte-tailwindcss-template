@@ -77,7 +77,7 @@ module.exports = {
 ```
 ### Apply TailwindCSS
 >Created `TailwindCSS.svelte` file in the `src` directory.
-```javascript
+```svelte
 <style global lang="postcss">
     @tailwind base;
     @tailwind components;
